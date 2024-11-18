@@ -16,5 +16,5 @@
 <a href="https://junit.org/junit5/"><img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="40" height="40"  alt="JUnit 5"/></a>  
 <a href="https://gradle.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40" height="40"  alt="Gradle"/></a>  
 <a href="https://www.jenkins.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40"  alt="Jenkins"/></a>  
-<a href="https://web.telegram.org/k/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"  alt="С"/></a>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"  alt="С"/></a>  
 </p>
